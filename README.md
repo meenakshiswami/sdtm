@@ -8,10 +8,11 @@ Installation
 
 Files
 AE.sas: Adverse Events dataset script.
-DM.sas: Demographics dataset script.	VS.sas: Vital Signs dataset script.
+DM.sas: Demographics dataset script.
+VS.sas: Vital Signs dataset script.
 etc.
 
-Usage
+Usage:
 Run the SAS scripts after placing data files in the required directories to generate SDTM datasets.
 
 Contributing
